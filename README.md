@@ -1,7 +1,7 @@
 # Breast Cancer Classification Analysis
                                                                                                     
 ## Overview
-Breast cancer is one of the most commonly diagnosed cancers worldwide. Early and accurate detection is critical; the difference between a malignant and benign diagnosis can determine a patient's entire treatment path. This project uses machine learning to classify breast tumors as malignant or benign based on clinical measurements of cell nuclei. Using the Wisconsin Breast Cancer Dataset, I built and compared two classification models — Logistic Regression and Random Forest — to determine which clinical features most strongly predict a cancer diagnosis, and which model performs best in this context.
+Breast cancer is one of the most commonly diagnosed cancers worldwide. Early and accurate detection is critical; the difference between a malignant and benign diagnosis can determine a patient's entire treatment path. This project uses machine learning to classify breast tumors as malignant or benign based on clinical measurements of cell nuclei. Using the Wisconsin Breast Cancer Dataset, I built and compared two classification models, Logistic Regression and Random Forest, to determine which clinical features most strongly predict a cancer diagnosis, and which model performs best in this context.
 
 ## Dataset
 - **Source:** Wisconsin Breast Cancer Dataset (built into scikit-learn)
